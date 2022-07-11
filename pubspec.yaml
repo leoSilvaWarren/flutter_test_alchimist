@@ -26,6 +26,6 @@ flutter:
   fonts:
     - family: WarrenDisplay
       fonts:
-        - asset: fonts/WarrenDisplay-Regular.otf
-        - asset: fonts/WarrenDisplay-Bold.otf
+        - asset: assets/fonts/WarrenDisplay-Regular.otf
+        - asset: assets/fonts/WarrenDisplay-Bold.otf
           weight: 700
